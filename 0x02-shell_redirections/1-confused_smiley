@@ -1,2 +1,2 @@
-#!/bin/bash
-"(Ôo)'
+#!bin/bash
+cat file_1

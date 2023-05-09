@@ -1,0 +1,1 @@
+I was tasked with fixing broken webstacks that were contained in isolated environments in a set of web stack debugging projects. To make the webstacks functional again, I had to troubleshoot and solve the issues, and I created scripts that automated the necessary commands to accomplish each task.

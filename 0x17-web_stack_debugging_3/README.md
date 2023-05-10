@@ -1,1 +1,1 @@
-I was tasked with fixing broken webstacks that were contained in isolated environments in a set of web stack debugging projects. To make the webstacks functional again, I had to troubleshoot and solve the issues, and I created scripts that automated the necessary commands to accomplish each task.
+In this task I learn to  use strace to debug issues in a LAMP stack running world press. I used strace to find out why apache is returning a 500 error and fix it manually then automate it using puppet.
